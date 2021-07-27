@@ -1,6 +1,8 @@
 # Writeups
 writeups from y-ctf club activities 
 
+Instead of .md, it is also possible to deposit only the script that allowed to solve the challenge.
+
 ## Structure
 
 Please use the following structure when submitting a writup : `/<CTF>/<YYYY>/<category>/<task_name>/writeup_by_<nickname>.md` and `/<CTF>/<YYYY>/<category>/<task_name>/img/<nickname>/<image_name>[.png|.jpg|.gif|...]`.
