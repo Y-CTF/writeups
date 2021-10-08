@@ -6,10 +6,7 @@ Ce mercredi de **15h45 à 17h15** aura lieu le 1er workshop de l'année du club 
 
 1. Présentation théorique (10-15 minutes) : concepts + outils disponibles afin que tout le monde ait quelques notions. Si des personnes souhaitent être orateur, vous êtes les bienvenus
 2. Challenges : une série de challenges vous sera proposé et vous pourrez réaliser ceux que vous souhaitez en fonction de votre niveau et de vos envies. Pour les plus expérimentés, il y aura du XSS volatiles ou DOM. La plateforme prévue est [root-me](https://www.root-me.org/) mais on est ouvert à toutes propositions 😉
-
-
-
-1. Pour finir, on terminera sur un moment de partage pour discuter des difficultés, astuces, etc.
+3. Pour finir, on terminera sur un moment de partage pour discuter des difficultés, astuces, etc.
 
 Infos :
 
@@ -17,10 +14,8 @@ Infos :
 
 -Il n'y aura pas besoin d'avoir le pass covid 😊
 
--Vous pouvez nous indiquer votre présence en remplissant le sondage ci-dessous. C'est surtout pour qu'on ait une estimation.
 
 
- 
 
 Au plaisir de vous voir nombreux mercredi,
 
