@@ -10,7 +10,7 @@ Ce mercredi de **15h45 à 17h15** aura lieu le 1er workshop de l'année du club 
 
 Infos :
 
--La salle de classe vous sera annoncée en temps voulu (dès qu'on l'aura)
+-Lieu: A01
 
 -Il n'y aura pas besoin d'avoir le pass covid 😊
 
