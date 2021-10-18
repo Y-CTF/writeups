@@ -4,7 +4,7 @@ Date de publication: 18 octobre 2021
 
 Bonjour à tous,
 
-Ce mercredi de **15h45 à 17h15** aura lieu un nouveau workshop. Celui-ci portera encore sur les failles XSS. On en profitera également pour revenir sur quelques points abordés lors de la dernière séance comme DVWA (une application vulnérable pour s'entraîner), OWASP et certaines failles XSS.
+Ce mercredi de **15h45 à 17h15** aura lieu un nouveau workshop. Celui-ci portera encore sur les failles XSS. On en profitera également pour revenir sur quelques points abordés lors de la dernière séance comme [DVWA](https://dvwa.co.uk/) (une application vulnérable pour s'entraîner), [OWASP](https://owasp.org/) et certaines failles XSS.
 
 La séance sera aussi l'occasion de discuter du 1er **CTF** de l'année et de son organisation (23-25 octobre 2021) : https://ctftime.org/event/1434/
 
