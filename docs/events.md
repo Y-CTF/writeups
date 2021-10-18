@@ -1,4 +1,4 @@
-# Événement
+# Événements
 
 Date de publication: 18 octobre 2021
 
@@ -10,7 +10,7 @@ La séance sera aussi l'occasion de discuter du 1er **CTF** de l'année et de so
 
 On retransmettra les informations pour celles et ceux qui ne peuvent pas être là.
 
-Pour les personnes qui ne sont pas disponible le mercredi, le comité est en train de réfléchir à des solutions. On vous les transmettra dès qu'on les aura trouvées.
+Pour les personnes qui ne sont pas disponibles le mercredi, le comité est en train de réfléchir à des solutions. On vous les transmettra dès que possible.
 
 Infos :
 
@@ -23,6 +23,12 @@ Infos :
 Au plaisir de vous voir nombreux mercredi,
 
 Alexandra pour le comité
+
+
+
+
+
+
 
 
 
