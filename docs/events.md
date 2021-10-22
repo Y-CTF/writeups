@@ -1,5 +1,22 @@
 # Événements
 
+Date de publication: 22 octobre 2021
+
+Bonjour à tous, 
+
+Le club CTF participe ce week-end au [BuckeyeCTF](https://ctftime.org/event/1434) 2021. Le CTF débute ce samedi 23 octobre à 2h00 et se termine ce lundi 25 octobre à 2h00. Ce CTF est adapté pour les débutants et comporte un large éventail de difficultés. Les membres passifs (ndlr : étudiant ayant eu leur diplôme) sont les bienvenus aussi. Toutes les informations sont disponibles sur le [discord](https://discord.gg/dCFhwwW).
+Au plaisir de vous retrouver,
+
+Alexandra pour le comité
+
+
+
+
+
+---
+
+
+
 Date de publication: 18 octobre 2021
 
 Bonjour à tous,
