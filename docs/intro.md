@@ -1,10 +1,6 @@
 # À propos de Y-CTF
 
-<img src=".intro.assets/logo.png" alt="Logo2SansFond.png" style="zoom:50%;" />
-
-
-
-![Book logo](/writeups/assets/logo.png)
+![Logo Y-CTF](/writeups/assets/logo.png)
 
 Le club CTF a pour objectif de promouvoir la sécurité et les CTFs au sein de l'HEIG-VD via des entraînements, des conférences, des participations aux CTFs, etc. Les activités du club seront bien entendu adapté à la situation actuelle.
 
