@@ -7,6 +7,8 @@ Instead of .md, it is also possible to deposit only the script that allowed to s
 
 Please use the following structure when submitting a writup : `/<CTF>/<YYYY>/<category>/<task_name>/writeup_by_<nickname>.md` and `/<CTF>/<YYYY>/<category>/<task_name>/img/<nickname>/<image_name>[.png|.jpg|.gif|...]`.
 
+(The following is also authorized `/<CTF>-<YYYY>/<category>/<task_name>/file.md`)
+
   * `/<CTF>`: Respect the case of the name as it would appear on ctftime.org
   * `/<YYYY>`: The full year as CTFs are often yearly events
   * `/<category>`: Lowercase for the category, e.g. crypto, pwn, reverse...
@@ -25,5 +27,4 @@ Please use the following structure when submitting a writup : `/<CTF>/<YYYY>/<ca
 You **cannot**: use spaces in the folder and file names.
 
 You **can**: link to your github and any relevant ressources in your writeup. This repo is to keep track of club activities, but ultimately you're the one who solved the challenge and wrote how you did it.
-
 
