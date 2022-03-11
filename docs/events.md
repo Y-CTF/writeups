@@ -1,5 +1,24 @@
 # Événements
 
+Date de publication: 11 mars 2022
+
+Bonjour à tous,
+
+Le CTF d'[Insomni'hack](https://insomnihack.ch/contests/) aura lieu le 25 mars 2022 à Genève. Insomni'hack est un événement de cybersécurité se déroulant du 24 au 26 mars à Genève. 
+À la fin des conférences, un CTF est organisé sur place entre 18h et 4h du matin dans la soirée du 25 mars.
+
+Quelques liens utiles:
+   \- Site de l'événement: [https://insomnihack.ch/](https://www.google.com/url?q=https://insomnihack.ch/&sa=D&source=editors&ust=1646990800211526&usg=AOvVaw13Wfxgi0p504TWu6qhbMkL)
+   \- Informations sur le CTF: [https://insomnihack.ch/contests/](https://www.google.com/url?q=https://insomnihack.ch/contests/&sa=D&source=editors&ust=1646990800211612&usg=AOvVaw2s07BXEK_iaiJNz1REW7Kn)
+   \- Détails des dates: [https://insomnihack.ch/insomnihack-2022-save-the-date/](https://www.google.com/url?q=https://insomnihack.ch/insomnihack-2022-save-the-date/&sa=D&source=editors&ust=1646990800211661&usg=AOvVaw1tKTusVCxEisFzlzoBBv4n)
+   \- Writeups des éditions précédentes: [https://ctftime.org/ctf/56](https://www.google.com/url?q=https://ctftime.org/ctf/56&sa=D&source=editors&ust=1646990800211698&usg=AOvVaw1QhPkU_K-ca5Ieps-c0kiK)
+
+Alexandra pour le Comité
+
+---
+
+
+
 Date de publication: 22 octobre 2021
 
 Bonjour à tous, 
