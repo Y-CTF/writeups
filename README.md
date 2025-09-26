@@ -4,15 +4,16 @@ This repository contains CTF writeups from the YCTF hacking club. These writeups
 
 ## Repository Structure
 
-```
+```bash
 .
 ├── <ctf-name>/
-│   ├── _index.md                    # CTF overview page
+│   ├── _index.md                    # required by Zola
 │   └── <challenge-name>/
-│       ├── index.md                 # Challenge writeup
-│       └── files/                   # Associated files
-│           ├── <exploit-files>
-│           ├── <challenge-files>
+│       ├── index.md                 # your writeup here
+│       └── files/                   # associated files
+│           ├── exploit.py
+│           ├── challenge.bin
+│           ├── screenshot.png
 │           └── ...
 └── ...
 ```
@@ -42,7 +43,7 @@ categories = ["category"]
 The website supports extended markdown features:
 
 - **Math rendering** using [`typst`](https://typst.app) syntax:
-  ```markdown
+  ```
   $
   lim_(x->oo) (1 + 1/x)^x = e
   $
@@ -78,10 +79,12 @@ The website supports extended markdown features:
 
 #### Writing Style
 
-- **Clear structure**: Use headings to organize your writeup
-- **Explain the approach**: Don't just show the solution, explain your thought process
-- **Include references**: Link to useful tools, techniques, or related writeups
-- **Code comments**: Comment your exploit code for clarity
+You are pretty much free to write however you want, but here are some tips:
+
+- Start with a brief overview of the challenge
+- Explain your thought process and approach
+- Include code snippets and commands used
+- Conclude with the final solution and any references you used / found helpful
 
 ## Contributing
 
