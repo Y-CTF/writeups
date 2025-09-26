@@ -22,7 +22,7 @@ When accessing the web page, it returns only the following message:
 - `{"error":"Missing or invalid Authorization header"}`
 
 To investigate, let’s intercept the traffic using BurpSuite. This confirms that our access returns a `401 UNAUTHORIZED` error.
-![](https://i.imgur.com/7x2qJbo.png)
+![](files/7x2qJbo.png)
 
 Next, we download the provided zip file, which appears to be a Splunk Add-On for Windows. Exploring the contents reveals several PowerShell scripts in the `/bin/powershell` directory that are worth examining. In the `dns-health.ps1` script, we find an intriguing line:
 
@@ -31,16 +31,16 @@ Next, we download the provided zip file, which appears to be a Splunk Add-On for
 ```
 
 Decoding this line from ASCII using [CyberChef](https://cyberchef.org/), we discover that it’s an `Invoke-Expression` (`iex`) command executing a base64-encoded script:
-![](https://i.imgur.com/y4W4lg5.png)
+![](files/y4W4lg5.png)
 
 Upon decoding the base64-encoded command, it appears to use an `Invoke-WebRequest` with basic authentication. Specifically, it sends an authorization header with `backdoor:this_is_the_http_server_secret` encoded in base64 as `YmFja2Rvb3I6dGhpc19pc190aGVfaHR0cF9zZXJ2ZXJfc2VjcmV0`. 
-![](https://i.imgur.com/r2ZbIFv.png)
+![](files/r2ZbIFv.png)
 
 By adding this line in BurpSuite’s header section:
 - `Authorization: Basic YmFja2Rvb3I6dGhpc19pc190aGVfaHR0cF9zZXJ2ZXJfc2VjcmV0`
 
 Bingo! This grants us access to execute the command through `iex`, which is:
 - `echo flag{e15a6c0168ee4de7381f502439014032}`
-![](https://i.imgur.com/Kaw1GyV.png)
+![](files/Kaw1GyV.png)
 
 The flag is: `flag{e15a6c0168ee4de7381f502439014032}`

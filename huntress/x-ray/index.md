@@ -72,10 +72,10 @@ which is a dll (.NET C#) implementation of pwncat-c2
 
 Loading it in ILSpy we find 2 methods that are not present in the github version:
 
-![](https://i.imgur.com/6W91oFi.png)
+![](files/6W91oFi.png)
 
 This is just a simple xor
 
-![](https://i.imgur.com/uB051qu.png)
+![](files/uB051qu.png)
 
 

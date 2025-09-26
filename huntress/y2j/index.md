@@ -20,5 +20,5 @@ see
 https://book.hacktricks.xyz/pentesting-web/deserialization/python-yaml-deserialization
 
 figure out
-![](https://i.imgur.com/VVGI1O8.png)
+![](files/VVGI1O8.png)
 

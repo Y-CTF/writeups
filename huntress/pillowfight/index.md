@@ -19,13 +19,13 @@ PillowFight uses _**advanced AI/MLRegressionLearning**_ to combine two images 
 ----
 
 Upon accessing the website, we find a form that allows uploading two images and combining them. There’s also a hint about API documentation available at `/swagger`. Exploring this documentation reveals an endpoint, `/combine`, where we can specify images along with an `eval_command` parameter for custom operations. Let’s test it by attempting to combine two images:
-![](https://i.imgur.com/DhWShYz.png)
+![](files/DhWShYz.png)
 
 Here's what we've got:
-![](https://i.imgur.com/5PwNDCv.png)
+![](files/5PwNDCv.png)
 
 Let’s try using a different custom `eval_command` instead of `convert()` in the previous formData, maybe can we do some command injection.
-![](https://i.imgur.com/ZgrT7eX.png)
+![](files/ZgrT7eX.png)
 
 This attempt results in a "Bad Request", with the following response:
 ```json
@@ -40,6 +40,6 @@ exec('raise Exception(open("flag.txt").read())')
 ```
 
 Bingo! The flag appears in the response body as part of the error message.
-![](https://i.imgur.com/ap64jNt.png)
+![](files/ap64jNt.png)
 
 The flag is: `flag{b6b62e6c5cdfda3b3a8b87d90fd48d01}`

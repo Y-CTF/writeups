@@ -47,7 +47,7 @@ But there is also this line:`
 
 So let's just breakpoint on this.
 
-![](https://i.imgur.com/Na5ybxH.png)
+![](files/Na5ybxH.png)
 
 Oh!
 Well that is done I guess?

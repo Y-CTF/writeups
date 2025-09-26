@@ -13,7 +13,7 @@ For this task we are given the source code and an encryption oracle.
 
 So we can see that the encryption use GCM and that the password is hard-coded. The message are encrypted with the following structure (HEADER|MESSAGE|PADDING) 
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/25/GCM-Galois_Counter_Mode_with_IV.svg)
+![](files/GCM-Galois_Counter_Mode_with_IV.svg)
 
 My first idea was to recover the nonce as the header is predictable in order to decrypt the message normally. 
 

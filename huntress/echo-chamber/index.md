@@ -18,7 +18,7 @@ We are given a pcap with what seems to be only icmp (ping) packets.
 
 Opening it in wireshark we inspect packet fields and find a data field containing what looks like repeating hex byte data.
 
-![](https://i.imgur.com/Pz0jPgm.png)
+![](files/Pz0jPgm.png)
 
 So we extract it to a file, making sure we only take one side of the communications (`icmp.type == 8`) since seems like all requests are echoed with same data
 ```bash
@@ -51,5 +51,5 @@ Caption                         : flag{6b38aa917a754d8bf384dc73fde633ad}
 
 The image also is the flag
 
-![](https://i.imgur.com/NYG4zcg.png)
+![](files/NYG4zcg.png)
 

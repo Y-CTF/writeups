@@ -47,8 +47,8 @@ I am attaching those files so you can fix them.
  
  By appending the extension `.jfif`, we can then open thoses two files which seem to be images.
  
- ![](https://i.imgur.com/IhCzSiG.jpeg)
-![](https://i.imgur.com/pAAuzcb.jpeg)
+ ![](files/IhCzSiG.jpeg)
+![](files/pAAuzcb.jpeg)
 
  
  ### And for the .txt ?
