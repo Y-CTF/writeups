@@ -7,7 +7,7 @@ authors = ["cstef"]
 categories = ["crypto"]
 +++
 
-We are able to eavesdrop on seamingly normal [FROST](#suggested-readings-and-references) rounds
+We are able to eavesdrop on seemingly normal [FROST](#suggested-readings-and-references) rounds
 
 ### Round 1
 
